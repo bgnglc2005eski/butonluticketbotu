@@ -1,0 +1,18 @@
+{
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "orio.db": "^0.1.0",
+    "wio.db": "^4.0.21"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
